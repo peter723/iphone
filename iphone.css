@@ -115,7 +115,7 @@ section{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    background:url(home.jfif) no-repeat;
+    background:url(media/home.jfif) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
